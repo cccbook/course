@@ -11,3 +11,14 @@ GitHub App that looks in your pushes for files with extension *.tex.md and rende
 
 $\int_a^b f(x)$
 
+
+$$\int_a^b f(x)$$
+
+$$
+\int_a^b f(x)
+$$
+
+\[
+\int_a^b f(x)
+]
+
